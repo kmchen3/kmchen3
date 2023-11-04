@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmchen3
+- 👋 Hi, I’m Karen Chen
 - 👀 I’m interested in boba, computer software, and leetcode
 - 🌱 I’m currently learning SQL 
 - 💞️ I’m looking to collaborate on computer science projects using C++ or Java
